@@ -1,3 +1,5 @@
 This is HackYourFuture Git class.
 
-Another text again.
+Another text again
+
+New lines.
